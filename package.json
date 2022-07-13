@@ -4,10 +4,10 @@
   "description": "Text editor assignment by Taeyong Lee",
   "main": "server.js",
   "scripts": {
-    "start:dev": "webpack-dev-server --open",
-    "start": "webpack --watch",
+    "start:dev": "./client/webpack-dev-server --open",
+    "start": "./client/webpack --watch",
     "server": "",
-    "build": "webpack --mode production",
+    "build": "./client/webpack --mode production",
     "install": "",
     "client": ""
   },
