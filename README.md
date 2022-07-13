@@ -29,3 +29,13 @@ To run in local, open your browser and visit http://localhost:3000.
 
 ## Deployed Application
 https://jate-by-taeyong-lee.herokuapp.com/
+
+## Demonstration
+Main application
+![sample](https://github.com/d104601/text_editor/blob/main/demo/main.jpg)
+
+Installed application offline
+![sample](https://github.com/d104601/text_editor/blob/main/demo/installed.jpg)
+
+Manifest
+![sample](https://github.com/d104601/text_editor/blob/main/demo/manifest.jpg)
